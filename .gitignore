@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+env/
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+*.pem
+*.key
+
+# Temporary files
+*.log
+temp/
